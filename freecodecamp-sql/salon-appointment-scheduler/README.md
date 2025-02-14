@@ -1,8 +1,8 @@
 # Salon Appointment Scheduler (Bash, PostgreSQL)
 
 ## Project goal:
-* Create an interactive Bash program that uses PostgreSQL to track the customers and appointments for a salon.
-* Project made as part of the FreeCodeCamp Relational Databases Certification.
+* Create an interactive Bash program that uses PostgreSQL to track the customers and appointments for a salon according to the [description](https://github.com/freeCodeCamp/learn-salon-appointment-scheduler/blob/main/TUTORIAL.md).
+* Project made as part of the [freeCodeCamp Relational Database Certification](https://www.freecodecamp.org/learn/relational-database).
 
 ## Database description:
 * Tables used: Customers, Services, Appointments.
