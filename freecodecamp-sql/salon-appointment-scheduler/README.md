@@ -9,7 +9,7 @@
 * Relations: Customers > Appointments < Services.
 
 ## Relational database diagram:
-![database](https://github.com/AdelaHlobilova/SalonAppointmentScheduler/blob/main/drawSQL-salon.png)
+![database](https://github.com/AdelaHlobilova/sql-data-science/blob/main/freecodecamp-sql/salon-appointment-scheduler/drawSQL-salon.png)
 
 ## Salon appointment booking Bash program description:
 
