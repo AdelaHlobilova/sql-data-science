@@ -10,4 +10,4 @@
 * Data mainly from Wikipedia.
 
 ## Relational database diagram:
-![database](https://github.com/AdelaHlobilova/CelestialBodiesDatabase/blob/main/drawSQL-celestial-bodies.png)
+![database](https://github.com/AdelaHlobilova/sql-data-science/blob/main/freecodecamp-sql/celestial-bodies-database/drawSQL-celestial-bodies.png)
