@@ -18,3 +18,4 @@ The Bash script implements a random number guessing game, where users try to gue
 The number_guess PostgreSQL database stores user information and game statistics. It maintains records of usernames, total games played, and the number of guesses taken to win a game. Each username is unique and limited to 22 characters. The database supports tracking returning users, enabling personalized greetings and performance analysis. Users' progress is stored persistently, and the database can be backed up or restored using PostgreSQL dump commands.
 
 ## Relational database diagram
+![database](https://github.com/AdelaHlobilova/sql-data-science/blob/main/freecodecamp-sql/number-guessing-game/drawSQL-number-guess_db.png)
