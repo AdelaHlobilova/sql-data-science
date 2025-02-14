@@ -2,6 +2,7 @@
 
 This repository showcases the projects I've completed as part of the **[FreeCodeCamp SQL Certification](https://www.freecodecamp.org/learn/relational-database)**.
 You can view my certification [here](https://www.freecodecamp.org/certification/adepos/relational-database-v8).
+
 ---
 
 ## 🏆 Projects Overview
@@ -43,6 +44,8 @@ Below is a list of the projects included in this repository:
   * IF statements and loops for game logic in Bash.
   * User input handling and database interaction via `psql` commands.
      
+---
 
+![certificate](https://github.com/AdelaHlobilova/sql-data-science/blob/main/freecodecamp-sql/certificate.png)
 
 
